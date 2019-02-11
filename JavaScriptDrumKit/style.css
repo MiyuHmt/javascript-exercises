@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(./img/background.jpg) bottom center;
   background-size: cover;
 }
 
@@ -35,8 +35,8 @@ html {
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  border-color: #388e3c;
+  box-shadow: 0 0 1rem #388e3c;
 }
 
 kbd {
@@ -48,5 +48,6 @@ kbd {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
-  color: #ffc600;
+  font-weight: bold;
+  color: #388e3c;
 }
