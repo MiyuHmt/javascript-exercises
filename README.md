@@ -1,6 +1,6 @@
 # javascript-exercises
 
-Some JavaScript exercises that I have do during the JavaScript30 challenge
+Some vanilla JavaScript exercises that I have do during the JavaScript30 challenge
 
 ## Table of contents
 
