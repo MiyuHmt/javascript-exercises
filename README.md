@@ -10,3 +10,4 @@ Some vanilla JavaScript exercises that I have do during the JavaScript30 challen
 - [Array Cardio Day 1](https://github.com/MiyuHmt/javascript-exercises/tree/master/ArrayCardioDay1)
 - [Flex Panel Gallery](https://github.com/MiyuHmt/javascript-exercises/tree/master/FlexPanelGallery)
 - [Type Ahead](https://github.com/MiyuHmt/javascript-exercises/tree/master/TypeAhead)
+- [Array Cardio Day 2](https://github.com/MiyuHmt/javascript-exercises/tree/master/ArrayCardioDay2)
