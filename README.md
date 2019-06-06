@@ -15,3 +15,4 @@ Some vanilla JavaScript exercises that I have do during the JavaScript30 challen
 - [Dev Tools Domination](https://github.com/MiyuHmt/javascript-exercises/tree/master/DevToolsDomination)
 - [Hold Shift And Check Checkboxes](https://github.com/MiyuHmt/javascript-exercises/tree/master/HoldShiftAndCheckCheckboxes)
 - [Custom Video Player](https://github.com/MiyuHmt/javascript-exercises/tree/master/CustomVideoPlayer)
+- [Key Sequence Detection](https://github.com/MiyuHmt/javascript-exercises/tree/master/KeySequenceDetection)
