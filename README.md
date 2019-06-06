@@ -13,3 +13,4 @@ Some vanilla JavaScript exercises that I have do during the JavaScript30 challen
 - [Array Cardio Day 2](https://github.com/MiyuHmt/javascript-exercises/tree/master/ArrayCardioDay2)
 - [Fun with HTML Canvas](https://github.com/MiyuHmt/javascript-exercises/tree/master/FunWithHTMLCanvas)
 - [Dev Tools Domination](https://github.com/MiyuHmt/javascript-exercises/tree/master/DevToolsDomination)
+- [Hold Shift And Check Checkboxes](https://github.com/MiyuHmt/javascript-exercises/tree/master/HoldShiftAndCheckCheckboxes)
