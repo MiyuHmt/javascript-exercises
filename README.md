@@ -12,3 +12,4 @@ Some vanilla JavaScript exercises that I have do during the JavaScript30 challen
 - [Type Ahead](https://github.com/MiyuHmt/javascript-exercises/tree/master/TypeAhead)
 - [Array Cardio Day 2](https://github.com/MiyuHmt/javascript-exercises/tree/master/ArrayCardioDay2)
 - [Fun with HTML Canvas](https://github.com/MiyuHmt/javascript-exercises/tree/master/FunWithHTMLCanvas)
+- [Dev Tools Domination](https://github.com/MiyuHmt/javascript-exercises/tree/master/DevToolsDomination)

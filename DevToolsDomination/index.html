@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Console Tricks!</title>
+</head>
+
+<body>
+  <p onClick="makeGreen()">×BREAK×DOWN×</p>
+  <script>
+    const bunnys = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+
+    let makeGreen = () => {
+      const p = document.querySelector('p');
+      p.style.color = '#BADA55';
+      p.style.fontSize = '50px';
+    }
+
+    // Regular
+    console.log('hello');
+
+    // Interpolated
+    console.log('I am a %s string!', '🐰');
+
+    // Styled
+    // console.log('%c I am some great text', 'font-size:50px; background:red; text-shadow: 10px 10px 0 blue')
+
+    // warning!
+    console.warn('OH NOOO');
+
+    // Error :|
+    console.error('Oops');
+
+    // Info
+    console.info('Bunny is cute');
+
+    // Testing
+    const p = document.querySelector('p');
+
+    console.assert(p.classList.contains('ouch'), 'That is wrong!');
+
+    // clearing
+    console.clear();
+
+    // Viewing DOM Elements
+    console.log(p);
+    console.dir(p);
+
+    console.clear();
+
+    // Grouping together
+    bunnies.forEach(bunny => {
+      console.groupCollapsed(`${bunny.name}`);
+      console.log(`This is ${bunny.name}`);
+      console.log(`${bunny.name} is ${bunny.age} years old`);
+      console.log(`${bunny.name} is ${bunny.age * 7} bunny years old`);
+      console.groupEnd(`${bunny.name}`);
+    });
+
+    // counting
+    console.count('Banana');
+    console.count('Banana');
+    console.count('Apple');
+    console.count('Apple');
+    console.count('Banana');
+    console.count('Apple');
+    console.count('Banana');
+    console.count('Apple');
+    console.count('Apple');
+    console.count('Apple');
+    console.count('Apple');
+    console.count('Apple');
+
+  </script>
+</body>
+
+</html>
